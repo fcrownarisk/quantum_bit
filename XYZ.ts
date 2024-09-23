@@ -1,7 +1,7 @@
 declare module X{}
 declare module Y{}
 declare module Z{}
-a : "<1|0>
+a : "<1|0>"
 b : "<0|1>"
 c : "<1|1>"
 d : "<0|0>"
