@@ -1,6 +1,6 @@
-& and
-&& AND
-| or
-|| OR
-= equal
-== EQUAL
+# & and
+# && AND
+# | or
+# || OR
+# = equal
+# == EQUAL
