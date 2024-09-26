@@ -1,7 +1,7 @@
-# & and
-# && AND
 # | or
 # || OR
+# & and
+# && AND
 # = equal
 # == EQUAL
 
